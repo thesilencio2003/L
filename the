@@ -1,4 +1,4 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="" 
+#EXTINF:-1 tvg-name="top gun" tvg-logo="" group-title="action" 
 https://delivery203.akamai-cdn-content.com/hls2/01/06760/txyykg2lcjkf_,l,n,.urlset/master.m3u8
